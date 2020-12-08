@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "654907677490",
+    "project_id": "camera-ded3d",
+    "storage_bucket": "camera-ded3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654907677490:android:e5429d1e381715ff69d52b",
+        "android_client_info": {
+          "package_name": "com.example.camera"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654907677490-q9bke15fs8hl2gl2d2q08cqk10c1ma8i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.camera",
+            "certificate_hash": "9470a61b562c6a296d09dcc19329f95c277e85ab"
+          }
+        },
+        {
+          "client_id": "654907677490-8tvmfg55eg76ogj090tvs0dc0p2e00mh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoY3Qaf9TEjyBs79I9scS9RuQ-fiSzeY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654907677490-8tvmfg55eg76ogj090tvs0dc0p2e00mh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
